@@ -1,5 +1,6 @@
 # Movie-recommender-system
 Build a machine learning model that can recommended top 9 movies on the basis of movie name provided.
+In this project i used "Content-Based Filtering" in which the algorithm recommends a product that is similar to those which used as watched.
 
 # Libraries Used
 - Numpy
