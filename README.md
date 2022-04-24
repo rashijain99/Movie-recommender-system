@@ -21,4 +21,4 @@ Links
 
 # Model Deployment
 I have deployed the model using Streamlit library on Heroku 
-Link - https://movie-app00.herokuapp.com/
+- Link - https://movie-app00.herokuapp.com/
