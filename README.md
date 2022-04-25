@@ -8,7 +8,6 @@ Build a machine learning model using Content-Based Filtering
 - ast
 - sklearm
 - nltk
-- streamlit
 - pickle
 
 # Links and Resources Used
